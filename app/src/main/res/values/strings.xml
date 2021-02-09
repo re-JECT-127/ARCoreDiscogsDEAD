@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ARCoreDiscogs</string>
+    <string name="detected_img_need_more_info">Image Detected, Hold</string>
+    <string name="track_stop">Tracking Stopped</string>
 </resources>
